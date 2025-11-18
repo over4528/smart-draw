@@ -3,22 +3,10 @@
 > **Draw any professional and beautiful diagram you can imagine in the simplest way**
 
 ## 🌐 Online Website
-Visit our online website to use directly: https://smart-excalidraw.aizhi.site/
-
-🚀🚀🚀 Limited Time Offer
-
-Add the author's WeChat at the bottom to join the group and get a free claude-4.5-sonnet key
+Visit our online website to use directly: https://smart-diagram.aizhi.site/
 
 ## 中文版本
 阅读中文版本: [README.md](README.md)
-
-## 📸 Preview
-Operation Interface
-<img width="2330" height="1255" alt="Smart Diagram Preview" src="https://github.com/user-attachments/assets/5319ad5c-c507-42e0-b67a-e9dfb2d7ecfa" />
-Technical Architecture Diagram
-<img width="1920" height="1134" alt="Untitled-2025-11-03-1105" src="https://github.com/user-attachments/assets/d2e01c4e-d300-4c20-bd98-d056e4f02102" />
-Infographic
-<img width="2183" height="828" alt="Untitled-2025-11-03-1054" src="https://github.com/user-attachments/assets/0e46e8da-fe64-40a9-911b-f6c0e5589bae" />
 
 ## ✨ Core Features
 
@@ -29,9 +17,6 @@ Powered by advanced large language models to understand your requirements and ge
 Supports both **Draw.io** and **Excalidraw** drawing engines:
 - **Draw.io**: Professional & Structured - Perfect for technical documentation, enterprise architecture, and formal presentations
 - **Excalidraw**: Beautiful & Creative - Ideal for brainstorming sessions, creative designs, and presentations with a hand-drawn style
-
-### 🔗 Innovative Connection Algorithm
-Featuring a proprietary intelligent arrow optimization algorithm that automatically calculates optimal connection points, ensuring charts are well-organized and logically clear, eliminating messy line crossings.
 
 ### 📊 Rich Chart Types
 Supports 20+ chart types, including flowcharts, architecture diagrams, sequence diagrams, ER diagrams, mind maps, network topology diagrams, Gantt charts, and more. AI can also automatically select the most suitable chart type based on your description.
@@ -165,7 +150,12 @@ Next.js 16 · React 19 · Draw.io · Excalidraw · Tailwind CSS 4 · Monaco Edit
 
 ## 📄 License
 
-MIT License
+The source code of this project is released under the **PolyForm Noncommercial License 1.0.0**, which permits noncommercial use only.
+Any kind of commercial use (including but not limited to selling, paid services, or SaaS offerings) requires prior written permission from the author.
+
+Please see the `LICENSE` file at the project root, or visit:
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+for the full license terms.
 
 ## Contact Author
 WeChat ID: liujuntaoljt
@@ -176,18 +166,9 @@ WeChat ID: liujuntaoljt
 
 Thanks to the following sponsors for supporting this project:
 
-<!-- Sponsor List -->
-- API Gateway: [AI Gateway | Plugins World](https://ai-router.plugins-world.cn)
-
 If this project helps you, please consider supporting:
 - ⭐ Star the project
 - 💬 Share with more people who need it
 - 💰 Become a sponsor (contact author via WeChat)
-
----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=liujuntao123/smart-excalidraw-next&type=date&legend=top-left)](https://www.star-history.com/#liujuntao123/smart-excalidraw-next&type=date&legend=top-left)
 
 **Draw any professional and beautiful diagram you can imagine in the simplest way** - Making visual creation simple again

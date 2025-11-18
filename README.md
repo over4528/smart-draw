@@ -3,23 +3,11 @@
 > **用自然语言，以最简单的方式绘制任何专业美观的图表**
 
 ## 🌐 在线网站
-进入在线网站直接使用：https://smart-excalidraw.aizhi.site/
+进入在线网站直接使用：https://smart-diagram.aizhi.site/
 
-🚀🚀🚀 限时福利
-
-添加底部作者微信进群可领取免费claude-4.5-sonnet key
 
 ## English Version
 Read the English version: [README_EN.md](README_EN.md)
-
-## 📸 效果预览
-操作界面
-<img width="2330" height="1255" alt="PixPin_2025-10-31_17-14-27" src="https://github.com/user-attachments/assets/5319ad5c-c507-42e0-b67a-e9dfb2d7ecfa" />
-技术架构图
-<img width="1920" height="1134" alt="Untitled-2025-11-03-1105" src="https://github.com/user-attachments/assets/d2e01c4e-d300-4c20-bd98-d056e4f02102" />
-信息图
-<img width="2183" height="828" alt="Untitled-2025-11-03-1054" src="https://github.com/user-attachments/assets/0e46e8da-fe64-40a9-911b-f6c0e5589bae" />
-
 
 
 ## ✨ 核心特性
@@ -31,9 +19,6 @@ Read the English version: [README_EN.md](README_EN.md)
 支持 **Draw.io** 和 **Excalidraw** 两种绘图引擎：
 - **Draw.io**：专业与结构化，适合技术文档、企业架构和正式演示
 - **Excalidraw**：美观与创意，适合头脑风暴、创意设计和需要手绘风格的演示
-
-### 🔗 独创连接算法
-采用独创的智能箭头优化算法，自动计算最佳连接点，确保图表井然有序、逻辑清晰，告别混乱的线条交叉。
 
 ### 📊 丰富图表类型
 支持 20+ 种图表类型，包括流程图、架构图、时序图、ER 图、思维导图、网络拓扑图、甘特图等。也可以让AI根据你的描述自动选择最合适的图表类型。
@@ -169,7 +154,11 @@ Next.js 16 · React 19 · Draw.io · Excalidraw · Tailwind CSS 4 · Monaco Edit
 
 ## 📄 许可证
 
-MIT License
+本项目源码基于 **PolyForm Noncommercial License 1.0.0** 发布，仅允许非商业用途使用。
+任何形式的商业使用（包括但不限于出售、付费服务、SaaS 等）都必须事先获得作者的书面授权。
+
+完整协议条款请参见项目根目录下的 `LICENSE` 文件，或访问：
+https://polyformproject.org/licenses/noncommercial/1.0.0/
 
 ## 联系作者
 微信号： liujuntaoljt
@@ -180,18 +169,11 @@ MIT License
 
 感谢以下赞助者对本项目的支持：
 
-<!-- 赞助者名单 -->
-- API中转站：[AI 网关｜插件世界](https://ai-router.plugins-world.cn)
-
 如果这个项目对你有帮助，欢迎通过以下方式支持：
 - ⭐ 给项目点个 Star
 - 💬 分享给更多需要的人
 - 💰 成为赞助者（联系作者微信）
 
----
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=liujuntao123/smart-excalidraw-next&type=date&legend=top-left)](https://www.star-history.com/#liujuntao123/smart-excalidraw-next&type=date&legend=top-left)
 
 **用自然语言，以最简单的方式绘制任何专业美观的图表** - 让可视化创作回归简单
