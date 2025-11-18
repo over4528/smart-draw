@@ -677,6 +677,9 @@ export default function FloatingChat({
                 if (allowed.length) {
                   const next = allowed.map(f => ({ file: f, name: f.name, type: f.type, size: f.size }));
                   setFiles(prev => [...prev, ...next]);
+                  if (textareaRef.current) {
+                    textareaRef.current.focus();
+                  }
                 }
               }}>
                 <Button
@@ -694,6 +697,9 @@ export default function FloatingChat({
                 if (imgs.length) {
                   const next = imgs.map(f => ({ file: f, url: URL.createObjectURL(f), name: f.name, type: f.type }));
                   setImages(prev => [...prev, ...next]);
+                  if (textareaRef.current) {
+                    textareaRef.current.focus();
+                  }
                 }
               }}>
                 <Button
