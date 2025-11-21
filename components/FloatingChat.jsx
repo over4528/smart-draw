@@ -465,7 +465,7 @@ export default function FloatingChat({
                   <div
                     key={idx}
                     className={cn(
-                      'flex w-full justify-center my-4 text-xs',
+                      'flex w-full my-4 text-xs',
                     )}
                   >
                     <div className="flex flex-col items-start gap-2">
